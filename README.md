@@ -1,6 +1,6 @@
 # Covid-Testing-System
 
-This is my first year object oriented programming coursework. 
+ECM1410 object oriented programming coursework. 
 
 # Problem description
 
